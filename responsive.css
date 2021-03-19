@@ -1,0 +1,75 @@
+@media (max-width:1000px) {
+  .photo img {
+    width: 150px;
+  }
+
+  .detail {
+    width: 200px;
+  }
+
+.skill {
+  width: 100%;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+}
+
+@media (max-width:670px) {
+  .container {
+    font-size: 24px;
+  }
+
+  .photo {
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    float: none;
+    margin: 0;
+  }
+
+  .photo img {
+    margin: 0 0 15px 0;
+  }
+
+  .detail {
+    margin-top: 15px;
+    height: 50%;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    float: none;
+  }
+
+  dt {
+    font-size: 9px;
+  }
+
+  dd {
+    font-size: 11px;
+  }
+
+  .skill-wrapper {
+    width: 80%;
+  }
+
+  .box {
+    margin: 0 5%;
+  }
+
+  .images {
+    width: 50%;
+  }
+
+  h2,p {
+    font-size: 0.5em;
+  }
+
+  .skill-memo p {
+    font-size: 8px;
+  }
+
+  .icon h3 {
+    font-size: 10px;
+  }
+}
