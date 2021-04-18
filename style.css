@@ -1,0 +1,112 @@
+* {
+  margin: initial;
+}
+
+header {
+  margin: 50px auto;
+  height: 120px;
+}
+h1 {
+  float: left;
+  font-weight: normal;
+  margin-left: 40px;
+}
+
+nav {
+  margin-right: 40px;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+  padding-top: 20px;
+}
+
+li {
+  float: left;
+  margin-left: 30px;
+}
+
+.fa-instagram {
+  font-size: 20px;
+  color: #24292e;
+}
+
+.top {
+  height: 400px;
+  background-image: url(img/top.jpg);
+  /* background-position: center right; */
+  background-size: cover;
+}
+
+.main {
+  margin: 40px auto;
+  width: 60%;
+}
+
+.heading {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.works ul {
+  justify-content: space-between;
+  padding: 40px;
+}
+
+.works img {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.works li {
+  width: 27%;
+}
+
+.news dt {
+  float: left;
+  margin-right: 80px;
+}
+
+input, textarea {
+  width: 100%;
+}
+
+.button {
+  width: 150px;
+  margin: 0 auto;
+}
+
+.button input {
+  display: block;
+  background-color: #24292e;
+  color: white;
+}
+
+.scroll {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+footer {
+  height: 40px;
+  background-color: #24292e;
+}
+
+footer p {
+  color: white;
+  font-size: 8px;
+  text-align: center;
+  line-height: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: #24292e;
+}
+
+.scroll a {
+  color: #24292e;
+  font-size: 40px;
+  margin-top: 40px;
+}
