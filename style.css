@@ -63,9 +63,14 @@ li {
   width: 27%;
 }
 
-.news dt {
+/* .news dt {
   float: left;
   margin-right: 80px;
+} */
+
+.news_content {
+  display: flex;
+  gap: 40px;
 }
 
 input, textarea {
